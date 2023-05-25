@@ -1,0 +1,15 @@
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\bin\Debug\net7.0\ConsolaIntroducción.exe
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\bin\Debug\net7.0\ConsolaIntroducción.deps.json
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\bin\Debug\net7.0\ConsolaIntroducción.runtimeconfig.json
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\bin\Debug\net7.0\ConsolaIntroducción.dll
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\bin\Debug\net7.0\ConsolaIntroducción.pdb
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ConsolaIntroducción.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ConsolaIntroducción.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ConsolaIntroducción.AssemblyInfoInputs.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ConsolaIntroducción.AssemblyInfo.cs
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ConsolaIntroducción.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ConsolaIntroducción.dll
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\refint\ConsolaIntroducción.dll
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ConsolaIntroducción.pdb
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ConsolaIntroducción.genruntimeconfig.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\ConsolaIntroducción\ConsolaIntroducción\obj\Debug\net7.0\ref\ConsolaIntroducción.dll
