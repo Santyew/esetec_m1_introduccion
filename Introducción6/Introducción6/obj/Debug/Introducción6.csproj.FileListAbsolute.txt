@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción6\Introducción6\bin\Debug\Introducción6.exe.config
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción6\Introducción6\bin\Debug\Introducción6.exe
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción6\Introducción6\bin\Debug\Introducción6.pdb
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción6\Introducción6\obj\Debug\Introducción6.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción6\Introducción6\obj\Debug\Introducción6.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción6\Introducción6\obj\Debug\Introducción6.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción6\Introducción6\obj\Debug\Introducción6.exe
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción6\Introducción6\obj\Debug\Introducción6.pdb

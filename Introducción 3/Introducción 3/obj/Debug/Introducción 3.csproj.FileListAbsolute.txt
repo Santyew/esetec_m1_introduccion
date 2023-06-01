@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción 3\Introducción 3\bin\Debug\Introducción 3.exe.config
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción 3\Introducción 3\bin\Debug\Introducción 3.exe
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción 3\Introducción 3\bin\Debug\Introducción 3.pdb
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción 3\Introducción 3\obj\Debug\Introducción 3.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción 3\Introducción 3\obj\Debug\Introducción 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción 3\Introducción 3\obj\Debug\Introducción 3.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción 3\Introducción 3\obj\Debug\Introducción 3.exe
+C:\Users\AulaT\Desktop\Santi proyectos Unity\Código\esetec_m1_introduccion\Introducción 3\Introducción 3\obj\Debug\Introducción 3.pdb
